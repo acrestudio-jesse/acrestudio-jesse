@@ -8,7 +8,7 @@ I see a problem in the world with how people are passively consuming media and c
 building very little. My goal is to streamline the process of creation, as well as, expose 
 new creators more easily to audiences. Not to monetize, but get them the confidence to engage in their
 passions.
-- 📫 How to reach me: acreillustration.github@gmail.com is a pretty good bet.
+- 📫 How to reach me: acreillustration+github@gmail.com is a pretty good bet.
 
 <!---
 acrestudio-jesse/acrestudio-jesse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
